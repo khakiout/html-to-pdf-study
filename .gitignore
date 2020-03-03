@@ -4,6 +4,10 @@ build/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**
 !**/src/test/**
+.DS_Store
+bin/
+.serverless/
+env.dev.yml
 
 ### STS ###
 .apt_generated
