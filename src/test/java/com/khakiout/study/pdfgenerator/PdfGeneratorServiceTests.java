@@ -2,7 +2,7 @@ package com.khakiout.study.pdfgenerator;
 
 import org.junit.jupiter.api.Test;
 
-public class PdfGeneratorServiceTest {
+public class PdfGeneratorServiceTests {
 
     @Test
     public void test() {
